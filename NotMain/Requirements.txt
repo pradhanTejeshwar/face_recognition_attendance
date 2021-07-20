@@ -1,0 +1,36 @@
+Required Packages :
+
+1. dlib
+	pip install dlib
+2. cmake
+	pip install cmake
+3. face_recognition
+	pip install face-recognition
+3. numpy
+	pip install numpy
+5. opencv_python
+	pip install opencv-python
+6. boost
+	pip install boost
+7. boost_py
+	pip install boost-py
+8. face_recognition_models
+	pip install face_recognition_models
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Required Camera Settings :
+
+1. Set your default capture device as the camera you are using in your system.
+2. Set your camera with the resolution available.
+3. Allow access to your camera device from the application trying to use it. E.g, Jupyter Notebook, Pycharm, Visual Studio, etc. 
+  (Python should be allowed to access the webcam with all of the right permissions)
+4. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Other Requirements :
